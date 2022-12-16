@@ -6,11 +6,25 @@
 Changelog
 =========
 
-Unreleased
-----------
+0.14.0 (2022-12-02)
+-------------------
+Fixed
+^^^^^
+* reintegrated delegated signing support into the driver
+
+
+0.13.0 (2022-11-28)
+-------------------
+Changed
+^^^^^^^
+* adjusted to changes in planetmint-transactions@0.2.2 that are a result from the zenroom upgrade and package renaming
+
+0.12.0 (2022-10-27)
+-------------------
 Changed
 ^^^^^^^
 * replaced common module with planetmint-transactions package
+* adjusted for asset changes in planetmint-transactions@0.2.0
 
 0.11.0 (2022-09-15)
 -------------------
